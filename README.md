@@ -25,6 +25,7 @@ Take a look at our [setup guide](https://www.tailwindtoolbox.com/setup) to start
 * [Routepath.app - coming soon](https://routepath.app)
 * [LedgerSight.com](https://ledgersight.com)
 * [AnonAddy.com](https://anonaddy.com)
+* [MentorCV.com](https://mentorcv.com)
 
 ## Bugs and Issues
 
