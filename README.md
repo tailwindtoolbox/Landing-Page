@@ -22,10 +22,11 @@ Take a look at our [setup guide](https://www.tailwindtoolbox.com/setup) to start
 ## Sites created using this template
 
 * [Pilotmail.io](https://pilotmail.io)
-* [Routepath.app - coming soon](https://routepath.app)
+* [Routepath.app](https://routepath.app)
 * [LedgerSight.com](https://ledgersight.com)
 * [AnonAddy.com](https://anonaddy.com)
 * [MentorCV.com](https://mentorcv.com)
+* [MakerMetrics.co](https://makermetrics.co) 
 
 ## Bugs and Issues
 
