@@ -28,6 +28,7 @@ Take a look at our [setup guide](https://www.tailwindtoolbox.com/setup) to start
 * [MentorCV.com](https://mentorcv.com)
 * [MakerMetrics.co](https://makermetrics.co)
 * [Nodewood.com](https://nodewood.com)
+* [X-Wing AI](https://xwing.app)
 
 ## Bugs and Issues
 
@@ -52,4 +53,4 @@ Free for personal and commercial purpose with attribution
 
 ## Copyright and License
 
-Copyright 2018-2019 Astrava.Solutions Ltd. Code released under the MIT license.
+Copyright 2018-2020 Astrava.Solutions Ltd. Code released under the MIT license.
