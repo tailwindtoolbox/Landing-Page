@@ -11,6 +11,7 @@ Choose one of the following options to get started:
 * [Download the latest release](https://github.com/tailwindtoolbox/Landing-Page/archive/master.zip)
 * Clone the repo: `git clone https://github.com/tailwindtoolbox/Landing-Page.git`
 * Fork the repo
+## Mencoba Push Melalui Fork  
 
 ## Using the Template
 
