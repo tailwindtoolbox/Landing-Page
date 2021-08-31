@@ -29,6 +29,7 @@ Take a look at our [setup guide](https://www.tailwindtoolbox.com/setup) to start
 * [MakerMetrics.co](https://makermetrics.co)
 * [Nodewood.com](https://nodewood.com)
 * [X-Wing AI](https://xwing.app)
+* [Scholarship Spy](https://scholarshipspy.com)
 
 ## Bugs and Issues
 
