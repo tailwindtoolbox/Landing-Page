@@ -1,16 +1,18 @@
+Hello; I have added night mode to your project
+
 # [Tailwind Toolbox](https://www.tailwindtoolbox.com/) - [Landing Page Template](https://www.tailwindtoolbox.com/templates/landing-page)
 
 [Landing Page](https://www.tailwindtoolbox.com/templates/landing-page) is an open source, generic landing page template for [Tailwind CSS](https://tailwindcss.com/) created by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
 
 ![Landing Page](https://www.tailwindtoolbox.com/templates/landing-page.png)
 
-
 ## Getting Started
 
 Choose one of the following options to get started:
-* [Download the latest release](https://github.com/tailwindtoolbox/Landing-Page/archive/master.zip)
-* Clone the repo: `git clone https://github.com/tailwindtoolbox/Landing-Page.git`
-* Fork the repo
+
+- [Download the latest release](https://github.com/tailwindtoolbox/Landing-Page/archive/master.zip)
+- Clone the repo: `git clone https://github.com/tailwindtoolbox/Landing-Page.git`
+- Fork the repo
 
 ## Using the Template
 
@@ -21,15 +23,15 @@ Take a look at our [setup guide](https://www.tailwindtoolbox.com/setup) to start
 
 ## Sites created using this template
 
-* [Pilotmail.io](https://pilotmail.io)
-* [Routepath.app](https://routepath.app)
-* [LedgerSight.com](https://ledgersight.com)
-* [AnonAddy.com](https://anonaddy.com)
-* [MentorCV.com](https://mentorcv.com)
-* [MakerMetrics.co](https://makermetrics.co)
-* [Nodewood.com](https://nodewood.com)
-* [X-Wing AI](https://xwing.app)
-* [Scholarship Spy](https://scholarshipspy.com)
+- [Pilotmail.io](https://pilotmail.io)
+- [Routepath.app](https://routepath.app)
+- [LedgerSight.com](https://ledgersight.com)
+- [AnonAddy.com](https://anonaddy.com)
+- [MentorCV.com](https://mentorcv.com)
+- [MakerMetrics.co](https://makermetrics.co)
+- [Nodewood.com](https://nodewood.com)
+- [X-Wing AI](https://xwing.app)
+- [Scholarship Spy](https://scholarshipspy.com)
 
 ## Bugs and Issues
 
@@ -39,12 +41,11 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 
 [Tailwind Toolbox](https://www.tailwindtoolbox.com/) was created by and is maintained by **[Amrit Nagi](https://amritnagi.info/)**, Co-owner of [Astrava.Solutions](https://astrava.solutions).
 
-* https://twitter.com/tailwindtoolbox
-* https://twitter.com/amritnagi
-* https://github.com/tailwindtoolbox
+- https://twitter.com/tailwindtoolbox
+- https://twitter.com/amritnagi
+- https://github.com/tailwindtoolbox
 
 Tailwind Toolbox is based on the [Tailwind CSS](https://www.tailwindcss.com/) framework created by [Adam Wathan](https://twitter.com/adamwathan), [Jonathan Reinink](https://twitter.com/reinink), [David Hemphill](https://twitter.com/davidhemphill) and [Steve Schoger](https://twitter.com/steveschoger)
-
 
 ## Image Attribution
 
