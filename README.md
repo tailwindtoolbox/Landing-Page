@@ -30,6 +30,7 @@ Take a look at our [setup guide](https://www.tailwindtoolbox.com/setup) to start
 * [Nodewood.com](https://nodewood.com)
 * [X-Wing AI](https://xwing.app)
 * [Scholarship Spy](https://scholarshipspy.com)
+* [Auto-Swiper](https://www.auto-swiper.ch)
 
 ## Bugs and Issues
 
@@ -54,4 +55,4 @@ Free for personal and commercial purpose with attribution
 
 ## Copyright and License
 
-Copyright 2018-2020 Astrava.Solutions Ltd. Code released under the MIT license.
+Copyright 2018-2022 Astrava.Solutions Ltd. Code released under the MIT license.
