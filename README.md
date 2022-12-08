@@ -26,7 +26,8 @@ Take a look at our [setup guide](https://www.tailwindtoolbox.com/setup) to start
 * [Nodewood.com](https://nodewood.com)
 * [X-Wing AI](https://xwing.app)
 * [Auto-Swiper](https://www.auto-swiper.ch)
-* [Hosted Git](https://hosted-git.com/)
+* [Hosted Git](https://hosted-git.com)
+* [Qiusheji](https://qiusheji.com)
 
 ## Bugs and Issues
 
