@@ -19,6 +19,12 @@ The template is just a HTML file using a full CDN hosted Tailwind CSS file.
 To get the best out of Tailwind CSS, you need to really start customising it.
 Take a look at our [setup guide](https://www.tailwindtoolbox.com/setup) to start tweaking!
 
+## Deploy
+
+To host your own copy on Wasmer Edge, fork this repository and import your fork; the button below opens the Wasmer import page for this repository and does not copy it into your GitHub account.
+
+[![Deploy to Wasmer](https://img.shields.io/badge/Deploy%20to-Wasmer-171717?logo=wasmer&logoColor=white)](https://wasmer.io/apps/create?github=tailwindtoolbox%2FLanding-Page)
+
 ## Sites created using this template
 
 * [AnonAddy.com](https://anonaddy.com)
